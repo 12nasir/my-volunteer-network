@@ -1,0 +1,11 @@
+.home-container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    margin: 30px;
+    padding: 20px;
+}
+
+.header{
+    color:cadetblue;
+    margin-top: 45px;
+}

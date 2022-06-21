@@ -1,0 +1,16 @@
+.footer-container{
+    background-color: black;
+    text-align: center;
+    align-items: center;
+    margin: 0%;
+    display: flex;
+    color: aliceblue;
+    height: 200px;
+    padding: 5px;
+}
+
+.ul-container{
+    display: inline-block;
+    text-align: center;
+    margin-left: 30%;
+}
